@@ -1,0 +1,8 @@
+<HTML>
+    <head>
+        <title>About Us</title>
+    </head>
+    <body>
+        <h1>Welcome to About Us</h1>
+    </body>    
+</html>
